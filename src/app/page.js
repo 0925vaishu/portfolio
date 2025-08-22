@@ -1,4 +1,5 @@
 import About from '@/Components/About';
+import Contact from '@/Components/Contact';
 import Hero from '@/Components/Hero';
 import Social from '@/Components/Social';
 
@@ -8,6 +9,7 @@ const page = () => {
       <Hero />
       <Social />
       <About />
+      <Contact />
     </>
   )
 }
